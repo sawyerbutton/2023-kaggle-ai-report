@@ -1,7 +1,6 @@
-# 2023-kaggle-ai-report
-https://www.kaggle.com/competitions/2023-kaggle-ai-report realate repo
-
 # 2023 Kaggle AI Report 
+
+https://www.kaggle.com/competitions/2023-kaggle-ai-report realate repo
 
 ## Project Goal
 
